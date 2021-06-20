@@ -1,0 +1,4 @@
+C:\Users\lcode\source\repos\AttendanceApp\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\lcode\source\repos\AttendanceApp\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\lcode\source\repos\AttendanceApp\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\lcode\source\repos\AttendanceApp\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
